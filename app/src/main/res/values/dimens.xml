@@ -3,4 +3,5 @@
     <dimen name="toolbar_top_padding">0dp</dimen>
     <dimen name="horizontal_margin">16dp</dimen>
     <dimen name="item_vertical_margin">16dp</dimen>
+    <dimen name="item_vertical_margin_big">32dp</dimen>
 </resources>
